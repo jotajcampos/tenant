@@ -30,7 +30,6 @@ ALLOWED_HOSTS = ['tenant.my-domain.com',
                  'tenantoutro.my-domain.com',
                  'my-domain.com',
                  ]
-
 SITE_ID = 1
 # Application definition
 
